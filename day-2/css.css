@@ -1,0 +1,209 @@
+/* #parent {
+position: relative;
+background-color: gray;
+width: 500px;
+height: 300px;
+}
+#child1{
+	background-color: black;
+	position: absolute;
+	width: 45px;
+	height: 40px;
+	left: 65px;
+	bottom:0px;
+}
+#child2{
+	background-color: black;
+	position: absolute;
+	width: 45px;
+	height: 70px;
+	left:130px;
+	bottom:0px;
+	
+
+}
+#child3{
+	background-color: black;
+	position: absolute;
+	width: 45px;
+	height: 100px;
+	left:195px;
+	bottom:0px;
+
+
+}
+#child4{
+	background-color: black;
+	position: absolute;
+	width: 45px;
+	height: 150px;
+	left:260px;
+	bottom:0px;
+
+
+
+}
+#child5{
+	background-color: black;
+	position: absolute;
+	width: 45px;
+	height: 200px;
+	left:325px;
+	bottom:0px;
+
+
+}
+#child6{
+	background-color: black;
+	position: absolute;
+	width: 45px;
+	height: 260px;
+	left:390px;
+	bottom:0px;
+}
+#nav1{
+position: absolute;
+
+
+}
+#nav2{
+position: absolute;
+bottom: 0px;
+right:0px;
+} */
+
+/* 
+#parent{
+	position: relative;
+	background-color: red;
+	width: 400px;
+	height: 350px;
+	border-radius: 10px;
+}
+#child1{
+	position: absolute;
+	background-color: gray;
+	width: 100px;
+	height: 100px;
+	border-top-left-radius: 10px;
+	border-radius:10px 10px 0px 0px;
+}
+#child2{
+	position: absolute;
+	background-color: gray;
+	right:0px;
+	width: 100px;
+	height: 100px;
+	border-top-right-radius: 10px;
+	border-radius:10px 10px 0px 0px;
+}
+#child3{
+	position: absolute;
+	background-color: white;
+	width: 200px;
+	height: 260px;
+	right:100px;
+	top:0px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+#child4{
+	position: absolute;
+	background-color: white;
+	top:0px;
+	width: 400px;
+	height: 100px;
+} */
+
+#parent{
+	background-color: black;
+    width: 442px;
+    height: 100px;
+    padding: 5px;
+	
+}
+#child1{
+	float:right;
+	width: 100px;
+	height: 100px;
+	background-color: #66320E;
+	margin: 0px 5px 0px 5px;
+}
+#child2{
+	float:right;
+	width: 100px;
+	height: 100px;
+	background-color: #66320E;
+	margin: 0px 5px 0px 5px;
+}
+#child3{
+	float:right;
+	width: 100px;
+	height: 100px;
+	background-color: #66320E;
+	margin: 0px 5px 0px 5px;
+}
+#child4{
+	float:right;
+	width: 100px;
+	height: 100px;
+	background-color: #66320E;
+	margin: 0px 5px 0px 5px;
+}
+
+
+#parent2{
+	background-color: black;
+    width: 442px;
+    height: 100px;
+    padding: 5px;
+	
+}
+#child11{
+	float:right;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	margin: 0px 5px 0px 5px;
+}
+#child22{
+	float:right;
+	width: 100px;
+	height: 100px;
+	background-color: #66320E;
+	margin: 0px 5px 0px 5px;
+}
+#child33{
+	float:right;
+	width: 100px;
+	height: 100px;
+	background-color: #66320E;
+	margin: 0px 5px 0px 5px;
+}
+#child44{
+	float:right;
+	width: 100px;
+	height: 100px;
+	background-color: #66320E;
+	margin: 0px 5px 0px 5px;
+}
+
+
+#pos{
+	width: 452px;
+    height: 3px;
+    background-color: darkred;
+    border: black;
+    max-width: 430px;
+    margin-left: 13px;
+}
+
+
+
+.father{
+	display: inline-block;
+	padding:5px;
+	background-color: black;
+}
+
+
